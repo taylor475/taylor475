@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylor475)](https://github.com/taylor475/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 ```txt
