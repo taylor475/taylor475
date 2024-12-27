@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       3 hrs           ████████████████████▓░░░░   82.11 %
-Bash             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-JSON             14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Shell Script     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Python           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
