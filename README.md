@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=taylor475" alt="LeetCode Badges" />
+
 <!--START_SECTION:waka-->
 
 ```txt
