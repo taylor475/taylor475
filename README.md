@@ -17,4 +17,4 @@ Svelte           1 hr 24 mins    ██▓░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-**taylor475/taylor475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**taylor475/taylor475** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
