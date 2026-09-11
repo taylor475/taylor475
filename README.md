@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 11 mins         █████████████████████████   100.00 %
+Markdown   3 hrs 1 min           ████████████████▒░░░░░░░░   65.83 %
+C          1 hr 34 mins          ████████▓░░░░░░░░░░░░░░░░   34.16 %
+CMake      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
